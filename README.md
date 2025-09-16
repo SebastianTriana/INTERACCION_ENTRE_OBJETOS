@@ -24,6 +24,7 @@ Clase que genera contraseñas aleatorias y evalúa si son **seguras**.
 **Ejemplo de ejecución:**
 
 <img width="240" height="33" alt="image" src="https://github.com/user-attachments/assets/703f98ad-69db-4ff7-b83b-aab5611e3600" />
+<img width="241" height="36" alt="image" src="https://github.com/user-attachments/assets/173b1fee-43af-4cd5-92a7-76e8b67bcfb5" />
 
 ---
 
